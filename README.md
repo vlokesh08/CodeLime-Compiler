@@ -62,10 +62,6 @@ Before you begin, ensure you have the following installed:
 
 We welcome contributions from the community! If you'd like to contribute to CodeLime, please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The Vite and TypeScript communities for providing excellent tools for web development.
