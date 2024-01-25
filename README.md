@@ -48,6 +48,8 @@ Before you begin, ensure you have the following installed:
 
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to access CodeLime.
 ## Images
+![image](https://github.com/vlokesh08/CodeLime-Compiler/assets/76467286/3de56b1d-3758-486a-bde0-c562bc1f8b72)
+
 ![image](https://github.com/vlokesh08/CodeLime-Compiler/assets/76467286/0bfff3ad-f354-49a5-bdc2-d139516cb912)
 ![image](https://github.com/vlokesh08/CodeLime-Compiler/assets/76467286/2f3c34c6-c5e4-44de-be11-33f2a8bdd23d)
 ![image](https://github.com/vlokesh08/CodeLime-Compiler/assets/76467286/43f26348-462e-4b3d-8748-c9925f4e6351)
